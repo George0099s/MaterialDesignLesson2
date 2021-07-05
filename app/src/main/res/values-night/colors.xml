@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink_gray">@color/color_gray</color>
+</resources>
